@@ -223,18 +223,8 @@ Interactive Streamlit Dashboard
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+<img width="1827" height="819" alt="image" src="https://github.com/user-attachments/assets/a29d4ee9-abdc-4efb-8797-ca527d922fa9" />
 
-Example:
-
-```
-images/
-├── dashboard.png
-├── gis_map.png
-├── prediction.png
-```
-
----
 
 ## 👨‍💻 Author
 
