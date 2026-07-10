@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+branca
+joblib
+scikit-learn
+xgboost
+shap
+matplotlib
+openpyxl
+reportlab
+earthengine-api
